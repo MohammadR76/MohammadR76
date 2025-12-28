@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Mohammadreza Seyfpour**
 
-**👨‍💻 ML Engineer | 4 Years of Experience in Data Science & artificial intelligence**
+**👨‍💻 ML Engineer | 4 Years of Experience in artificial intelligence**
 
 I specialize in data analysis and building predictive models. With expertise in 🐍Python, 🗃️SQL, and 🤖artificial intelligence algorithms, I have worked on diverse projects ranging from predictive analytics to computational modeling. I am passionate about solving complex challenges and continuously learning new tools and techniques in the field of artificial intelligence.
 
@@ -22,6 +22,15 @@ I specialize in data analysis and building predictive models. With expertise in 
 
 - **4+ years** of hands-on experience in data science and AI projects.
 - Worked on building predictive models, handling large datasets, and performing complex analytics.
+
+---
+
+### 🎓 Certificates
+- Supervised Machine Learning: Regression and Classification – [Coursera](https://www.coursera.org/account/accomplishments/verify/0811SCMGXZ3X)
+- Neural Networks and Deep Learning – [Coursera](https://www.coursera.org/account/accomplishments/verify/CQYHU2IR3391)
+- Advanced Learning Algorithms – [Coursera](https://www.coursera.org/account/accomplishments/verify/B0UOKF25J8I9)
+- Python – [Kaggle](https://www.kaggle.com/learn/certification/mohammadrezaseyfpour/python)
+- Kaggle competitions – [Link](https://www.kaggle.com/certification/competitions/mohammadrezaseyfpour/jane-street-real-time-market-data-forecasting)
 
 ---
 
