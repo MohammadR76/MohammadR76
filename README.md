@@ -1,15 +1,15 @@
 # 👋 Hi, I'm **Mohammadreza Seyfpour**
 
-**👨‍💻 Data Scientist | 4 Years of Experience in Data Science & artificial intelligence**
+**👨‍💻 ML Engineer | 4 Years of Experience in Data Science & artificial intelligence**
 
-I specialize in data analysis and building predictive models. With expertise in 🐍Python, 🗃️SQL, and 🤖artificial intelligence algorithms, I have worked on diverse projects ranging from predictive analytics to computational modeling. I am passionate about solving complex challenges and continuously learning new tools and techniques in the field of data science.
+I specialize in data analysis and building predictive models. With expertise in 🐍Python, 🗃️SQL, and 🤖artificial intelligence algorithms, I have worked on diverse projects ranging from predictive analytics to computational modeling. I am passionate about solving complex challenges and continuously learning new tools and techniques in the field of artificial intelligence.
 
 ---
 
 ### 🔥 About Me
 
 - 🔭 **Currently working on**: Leveraging AI algorithms to solve complex problems.
-- 🌱 **Learning**: Continuously exploring new advancements in data science and AI techniques.
+- 🌱 **Learning**: Continuously exploring new advancements in ML Engineer and AI techniques.
 - 📊 **Software & Skills**:
   - **Programming**: Python, SQL, Fortran
   - **Databases**: MySQl
