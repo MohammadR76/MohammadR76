@@ -12,8 +12,9 @@
 
 ### About Me
 
-I am currently working as a Machine Learning Engineer and AI Specialist on various projects. Throughout this journey, I have gained hands-on experience across the full machine learning lifecycle, from data preparation and cleaning to model development, evaluation, and deployment. I enjoy solving complex problems using artificial intelligence algorithms, and I continuously work on learning, improving my skills, and exploring new tools and technologies in this field.
-
+I work as a Data/BI Analyst and Data/ML Engineer. In my analytics work, I start with business goals and identify the key performance indicators (KPIs) that best measure progress toward them. I then analyze the data and build reports and dashboards that show how the business is performing against those goals.
+On the data engineering side, I handle the ETL process: I extract data from multiple sources, clean and integrate it, and load it into the target system. In machine learning projects, I select a model that fits the problem, fit it to the training data, evaluate its performance on unseen data, and deploy the final model.
+I enjoy figuring out what each problem calls for. Sometimes a simple chart makes the answer clear; other times, a predictive model is the right tool. I also enjoy learning new tools along the way.
 - 🔭 Currently working on: Applying AI algorithms to solve real-world and complex problems
 - 🌱 Currently learning: Optimization of machine learning algorithms
 - 💬 Ask me about: Classical algorithms, deep learning, reinforcement learning, natural language processing, computer vision, large language models (LLMs), and time-series modeling, including stock market and Forex chart analysis
