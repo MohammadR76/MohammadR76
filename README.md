@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:eab308&height=200&section=header&text=Mohammadreza%20Seyfpour&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%7C%20AI%20Specialist&descAlignY=58&descColor=fef08a)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:eab308&height=200&section=header&text=Mohammadreza%20Seyfpour&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%2FBI%20Analyst%20%2C%20DATA%2FML%20Engineer&descAlignY=58&descColor=fef08a)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=eab308)](http://www.linkedin.com/in/mohammadreza-seyfpour)
 [![Kaggle](https://img.shields.io/badge/Kaggle-0f172a?style=for-the-badge&logo=kaggle&logoColor=eab308)](https://www.kaggle.com/mohammadrezaseyfpour)
